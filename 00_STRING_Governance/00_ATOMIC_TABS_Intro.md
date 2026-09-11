@@ -74,7 +74,7 @@ Two areas named in earlier drafts of this architecture are **not yet authored** 
   * `Lockup_Horizontal_Compact.svg`
   * Usage context for each: `03-atoms.md` → Symbol-Only Usage
 
-* **`03_ATOM_Icons/`** 🔴 Not yet specified
+* **`03_ATOM_Icons/`** 
   * `System_Icons_16x24/` (`.svg` grid icons)
   * `Illustrative_Icons_48px/` (`.svg`)
   * No file in the system currently governs a general iconography style (stroke weight, corner radius, grid). `03-atoms.md` only covers the logo symbol used *as* an icon (favicon, avatar) — a broader icon system is a genuine gap, not yet authored.
@@ -118,7 +118,7 @@ Two areas named in earlier drafts of this architecture are **not yet authored** 
 * **`05_COMPOUND_Assets_AD_ID/`**
   * `AD_User_Avatar_Overlay.png` *(Slack/Teams/Outlook frame)* — 🔴 not yet specified anywhere in the system
   * `Email_Signature_Template.html` / `.pdf` — fully specified: `05-compounds.md` → Email Signature
-  * `Employee_ID_Card_Front_Back.ai` — 🔴 not yet specified
+  * `Employee_ID_Card_Front_Back.ai` — 
   * `Digital_Business_Card_vCard.vcf` — 🔴 not yet specified
   * `Zoom_Teams_Virtual_Backgrounds/` (`1920x1080.png`) — 🔴 not yet specified
   * `Swag_&_Print_Files/` (`.ai` for merchandise, event booths, office plates) — 🔴 not yet specified
