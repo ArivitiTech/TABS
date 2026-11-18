@@ -27,7 +27,7 @@ The core BG names three qualities the identity represents: **clarity, confidence
 | Pillar                    | Design Law                                            | In Practice                                                                       |
 | ------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Clarity**               | One idea per screen / one idea per slide              | No dashboard-style pages cramming five messages above the fold                    |
-| **Confidence**            | State the claim once, plainly, and stop               | No stacked qualifiers, no hedge words, no exclamation marks                       |
+| **Confidence**            | State the claim once, plainly, and stop               | Avoid unnecessary qualifiers; state uncertainty accurately; use no exclamation marks |
 | **Purposeful Innovation** | Every "new" element must trace to a functional reason | No design flourish added because it looks modern — only because it does something |
 
 ### Derivation Chain — How a Decision Traces Back
@@ -143,77 +143,67 @@ Component-level decisions (does this button need a new state?) sit with whoever'
 ## Part 3 — Voice, Tone & Vocabulary
 *Reference: Core BG pages 16–17*
 
-### The Four Traits, Operationalized
+### Voice Rules
 
-The core BG names four traits: **Clear & Direct, Knowledgeable, Evidence-first, Human-led.** Traits without tests are just adjectives. Here's the test for each.
+Use a flat, direct, factual tone. Write in plain language and short declarative sentences. State the point first and stop when it is clear. Remove hype, AI clichés, corporate filler, dramatic hooks, metaphors, inflated promises, rhetorical questions, exclamation marks, repetition, and decorative language.
 
-| Trait              | Fails If...                                     | Passes If...                                           |
-| ------------------ | ----------------------------------------------- | ------------------------------------------------------ |
-| **Clear & Direct** | A sentence needs re-reading to find the verb    | A reader states the point back correctly on first pass |
-| **Knowledgeable**  | The claim could be made by any AI vendor        | The claim requires domain-specific context to be true  |
-| **Evidence-first** | A number appears without its source or baseline | Every metric answers "measured how, against what"      |
-| **Human-led**      | AI is the subject of the sentence               | A person or outcome is the subject; AI is the tool     |
+| Rule | Apply it |
+| --- | --- |
+| **Clear** | Use specific words and one main idea per sentence. |
+| **Knowledgeable** | Include relevant domain details. Avoid generic claims. |
+| **Evidence-first** | Cite factual claims and provide each metric's source and baseline. |
+| **Human-led** | Make people, actions, or outcomes the subject. Describe AI as a tool where relevant. |
 
-### The Proof Ladder
+### Claims and Evidence
 
-Every external claim climbs three rungs. Skipping a rung is how marketing copy becomes fiction.
+Support external claims with evidence and explain why the result matters.
 
-1. **Claim** — the assertion ("we cut processing time")
-2. **Evidence** — the number, source, and baseline ("from 7 weeks to 3 weeks, Q2 production data")
-3. **Outcome** — what it meant for the client ("the backlog cleared before renewal season")
+1. **Claim** — state what changed.
+2. **Evidence** — provide the source, measurement, and baseline.
+3. **Outcome** — explain the verified effect.
 
-**Do:** write outcome-first, evidence-second in headlines; keep the claim itself out of the H1 unless it's already proven.
-**Don't:** publish rung 1 without rungs 2 and 3 available on request. If they're not available, the claim isn't ready to publish.
+Do not present unsupported claims as established results. If the evidence is unavailable, state that the claim needs verification.
 
 ### Vocabulary — Use This, Never This
 
-Directly extending the core BG's two example shifts into a working system:
-
-| Never This                                            | Use This                                                    | Why                                                                                  |
-| ----------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| "We leverage AI to accelerate digital transformation" | "We put AI into production with measurable outcomes."       | "Leverage" is a verb with no object — says nothing about what changed                |
-| "Our platform delivers cutting-edge AI solutions"     | "We solve real business problems, not showcase technology." | "Cutting-edge" is a claim every competitor also makes — zero differentiation         |
-| "AI-powered" (unqualified)                            | Name what the AI does and what it produced                  | Unqualified "AI-powered" is now a red flag to sophisticated buyers, not a credential |
-| "Innovative" / "next-generation" / "revolutionary"    | The specific mechanism or result                            | These words have no verifiable content — they're vibes, not evidence                 |
-| "End-to-end solution"                                 | Name the start point and end point explicitly               | "End-to-end" sounds complete but tells the reader nothing they can check             |
-| "Human in the loop"                                   | "Human-led" / name the person's actual role                 | "In the loop" frames the human as an interruption to the AI, not the decision-maker  |
-| "Transformation" (unqualified)                        | From [state] to [state], by [date/metric]                   | Matches Evidence-first — an unqualified "transformation" is unfalsifiable            |
-| "Full-stack AI"                                       | The specific layer or capability you own                    | Nobody owns the full stack; the claim signals inexperience to technical buyers       |
+| Avoid | Write instead |
+| --- | --- |
+| "We leverage AI to accelerate digital transformation." | Name the task AI performs and the verified result. |
+| "Our platform delivers cutting-edge AI solutions." | Name the specific service, method, or capability. |
+| "AI-powered" without an explanation | State what the AI does and what it produces. |
+| "Innovative," "next-generation," or "revolutionary" | Describe the specific mechanism or result. |
+| "End-to-end solution" | Name the starting point and endpoint. |
+| "Human in the loop" | Say "human-led" or name the person's role. |
+| "Transformation" without detail | State the change, timeframe, and verified measure. |
+| "Full-stack AI" | Name the specific layer or capability. |
 
 ### The Never List
 
-Checked before any external asset ships.
+Apply these rules to all external copy.
 
 - **Never** publish a metric without a source and baseline.
-- **Never** write a passive-voice sentence in external copy. ("Costs were reduced" → "We reduced costs.")
-- **Never** use "AI-powered," "cutting-edge," "next-gen," "revolutionary," or "innovative" without a concrete mechanism attached in the same sentence.
-- **Never** open a case study, deck, or About page with company heritage/years-in-business. Heritage is due-diligence context, not a hook.
-- **Never** let a technical process diagram outrank the human outcome in visual size or position on the same page.
-- **Never** use more than one exclamation point per asset, ever.
-- **Never** claim a result as achieved if it is a target or lab result. Say "target" or "pilot" explicitly.
+- **Never** use passive voice when an active sentence is clear.
+- **Never** use hype terms without naming a specific, verifiable mechanism.
+- **Never** open a case study, deck, or About page with company history.
+- **Never** give a technical process more prominence than the relevant human outcome.
+- **Never** use exclamation marks.
+- **Never** present a target or pilot result as an achieved outcome.
 
-### Personality — One Idea, Not a Framework
+### Writing Style
 
-Resist inventing an elaborate persona system. Ariviti's personality is simple enough to fit in one sentence:
-
-> **The senior engineer who also happens to be a good explainer.**
-
-That's it. Test every sentence against it: would a senior engineer actually say this out loud to a CFO, without flinching at their own words? If not, cut it.
+Write as a knowledgeable engineer explaining the subject to a non-specialist. Be precise, direct, and respectful.
 
 ### Tone by Format
 
-| Format                      | Register                                                          | Length Discipline                                |
-| --------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| Website hero copy           | Direct claim + immediate qualifier                                | One sentence, one idea                           |
-| LinkedIn post               | Evidence-first, short declaratives, pause after the number        | Under 8 lines before "see more"                  |
-| Case study                  | Challenge → Approach → Result, in that order, every time          | No hedging language ("may," "could potentially") |
-| Sales email                 | One idea per email, subject line states the outcome not the topic | Under 120 words                                  |
-| Leadership bio (About page) | Named, specific, credentialed — not a group photo caption         | 2–3 sentences, one proof point per person        |
+| Format | Guidance | Length |
+| --- | --- | --- |
+| Website hero copy | State one specific claim and its relevant qualifier. | One sentence. |
+| LinkedIn post | Use short, factual statements and cite evidence. | Under 8 lines before "see more." |
+| Case study | Organize around challenge, approach, and result. State uncertainty accurately. | Use only the detail needed to explain the evidence. |
+| Sales email | Focus on one outcome; make the subject line specific. | Under 120 words. |
+| Leadership bio | Name the person, role, and relevant credentials. | 2–3 sentences; one proof point per person. |
 
-<!-- PRIVATE:START reason="discloses current site gap" -->
-**Note:** Named, specific leadership bios are currently absent from the site (per the last audit). This is a voice problem as much as a content problem — "Human-led" as a brand trait is unconvincing if the humans aren't named.
-<!-- PRIVATE:END -->
-**Evergreen version:** leadership bios must be named and specific, not a group-photo caption — "Human-led" as a brand trait depends on it.
+**Evergreen version:** name leaders and describe their roles and relevant experience.
 
 ---
 
@@ -250,7 +240,7 @@ Draft → Self-check against Never List + Fragility Score → Async review (24hr
 <!-- PRIVATE:START reason="live audit numbers and current-state admissions" -->
 ### Quantify Fragility: The Brand Health Scorecard
 
-What gets measured gets protected — but only if the metric is quantified, not vibes-based.
+Use defined, measurable indicators to assess brand health.
 
 | Metric                              | Method                                                                                                    | Fragility If Ignored                                                                                                   |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |

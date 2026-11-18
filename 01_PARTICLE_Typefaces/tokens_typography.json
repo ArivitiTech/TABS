@@ -2,8 +2,7 @@
   "meta": {
     "brand": "Ariviti",
     "scaleRatio": 1.25,
-    "baseSizePx": 16,
-    "fontFileStatus": "Font family names are wired everywhere; actual .ttf/.otf files to be embedded separately \u2014 see fontStacks[*].note."
+    "baseSizePx": 16
   },
   "fontStacks": {
     "display": {

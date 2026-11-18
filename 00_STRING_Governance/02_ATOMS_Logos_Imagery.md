@@ -67,7 +67,7 @@ The symbol is not decoration. It is a compressed argument:
 | Apply gradients or unauthorized colors to the mark itself | Gradients are reserved for approved background *environments* (see Particles doc, Color Swatches) — never painted onto the logo |
 | Place on low-contrast backgrounds                         | Fails both brand recognition and (often) accessibility simultaneously — see Particles doc, Accessibility                        |
 
-### Symbol-Only Usage (not covered in core BG — filling the gap)
+### Symbol-Only Usage
 
 The symbol alone will be your most-seen asset: favicon, LinkedIn avatar, app icon, Slack/Teams icon, watermark on decks.
 
@@ -85,7 +85,6 @@ A modified letterform at brand-identity scale, tied to a real linguistic root (*
 ---
 
 ## Part 2 — Photography Direction
-*Not covered in core BG — built to match core visual and voice principles*
 
 ### The One Rule
 

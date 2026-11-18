@@ -86,13 +86,6 @@ system-font fallback stack. Load the actual webfonts in your app's `<head>`
 (e.g. via Google Fonts or self-hosted `@font-face`) — this library does not
 inject font-loading itself, so it stays framework- and build-tool-agnostic.
 
-## What's not in this release
-
-Scoped for a follow-up, not built here: Modal/Dialog, Select/Dropdown, Tabs,
-Toast notifications, Table, Pagination, Tooltip. The six shipped here are the
-highest-frequency primitives (every marketing page and most app screens need
-buttons, cards, badges, inputs, nav, and alerts before anything else).
-
 ## Known limitation in this QA pass
 
 The static demo screenshot (rendered via wkhtmltoimage, a legacy WebKit

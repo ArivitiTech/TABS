@@ -42,10 +42,3 @@ screenshots (dashboards, product screens) — it will shift the product's own
 colors and misrepresent the interface. Duotone is for people/place/environment
 photography only.
 
-## What's still open
-
-- Real photography doesn't exist — this guide is ready to apply the moment
-  a shoot or licensed photo library is available.
-- No guidance yet on illustration/iconography-over-photo compositing style,
-  or motion/video treatment — scope for a follow-up once static photography
-  direction is confirmed as correct.

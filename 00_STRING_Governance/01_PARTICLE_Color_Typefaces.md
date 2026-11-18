@@ -27,8 +27,6 @@ Particles are the raw, indivisible values — hex codes, type scales, contrast r
 
 ### Usage Ratio (default page composition)
 
-Not specified numerically in core BG — added for design consistency:
-
 - **White / near-white:** ~65–75% of any layout — this is the "clarity" pillar made literal
 - **Royal Indigo:** ~15–25% — headers, primary text, structural elements
 - **Vibrant Orange:** ~5–10% — CTAs and accents only, never a dominant field color
@@ -73,7 +71,7 @@ Core BG's "Don'ts" page prohibits gradients **on the logo mark**. It does not au
 A minimum viable, low-maintenance asset kit:
 
 - `.ase` (Adobe swatch) for Illustrator/Photoshop/InDesign
-- CSS custom properties (`--ariviti-orange: #FF4D1C;` etc.) for all web/product work — tracked as a Molecule, see the Molecules manifest
+- CSS custom properties (`--ariviti-orange: #FF4D1C;` etc.) for all web/product work — see the Molecules manifest
 - Figma shared color styles, published from one source library — never recreated per file
 
 
@@ -113,7 +111,7 @@ Core BG defines three fonts with three distinct, non-overlapping jobs. The singl
 
 ### Numerals & Metrics
 
-Not addressed in core BG — filling the gap, since metrics are central to Evidence-first voice (Strings → Voice, Tone & Vocabulary).
+Metric typography supports the Evidence-first voice (Strings → Voice, Tone & Vocabulary).
 
 - Use **Space Grotesk Bold** for standalone large metrics (proof blocks, stat callouts) — the geometric weight gives numbers visual authority distinct from surrounding body copy.
 - Use **Plus Jakarta Sans** for inline numbers within body sentences — switching fonts mid-sentence for a single digit is a common over-engineering mistake; don't do it.
@@ -131,7 +129,6 @@ Not addressed in core BG — filling the gap, since metrics are central to Evide
 ---
 
 ## Part 3 — Accessibility Standards
-*Not covered in core BG — critical gap, closed here with verified numbers*
 
 ### Why This Section Is Non-Optional
 

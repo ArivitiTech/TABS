@@ -1,25 +1,23 @@
 # 04 · Compounds
-*Tracks & specifies: .pptx · .docx · .html templates · Email Signatures*
+*Specifies: .pptx · .docx · .html templates · Email Signatures*
 
 - [Download Reference Templates](/04_COMPOUND_References)
 
 ## What This File Is
 
-Compounds are complete, sendable artifacts — built from Molecules (code/template files), which are built from Atoms, Particles, and Strings. Some compounds below are fully specified in content but not yet compiled into a locked template file; some don't exist in any form yet. Each entry says which is true.
+Compounds are complete, sendable artifacts — built from Molecules (code/template files), which are built from Atoms, Particles, and Strings. Each entry below defines a deliverable and points to its specification.
 
-## Status Manifest
+## Deliverable Reference
 
-| Compound                              | Status                                                      | Notes                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **This Annexure (`.pptx`)**           | 🟢 Built & in circulation                                    | The reference implementation of this entire system — every rule above is demonstrated in a real, shipped deck. Treat it as the visual precedent for any future `.pptx`.                                                                                                                                                                            |
-| **Email Signature**                   | 🟡 Fully specified, not yet deployed as a file               | Full template below. Needs to be built as `ariviti-signature.mjml` (see Molecules manifest) and pushed via IT/Workspace policy.                                                                                                                                                                                                                    |
-| **Case Study (`.docx` / web)**        | 🟡 Structure specified, no locked template file              | Full structure below. Needs a `.dotx` master (Molecules manifest) or a locked web template.                                                                                                                                                                                                                                                        |
-| **One-Pager (`.docx` / `.pdf`)**      | 🟡 Structure specified, no locked template file              | Full structure below.                                                                                                                                                                                                                                                                                                                              |
-| **Slide Deck (`.pptx`)**              | 🟡 Structure specified; this Annexure is a partial precedent | Needs a dedicated `.potx` master separate from this reference document (Molecules manifest).                                                                                                                                                                                                                                                       |
-| **LinkedIn Post**                     | 🟡 Structure specified, text-only compound                   | No file format — governed entirely by the template below plus the Never List (Strings doc).                                                                                                                                                                                                                                                        |
-| **About / Leadership Page (`.html`)** | 🟡 Structure specified, not built                            | <!-- PRIVATE:START reason="discloses current site gap" -->Currently blocked on real content (named leaders, bios), not on the template — see Brand Health Scorecard, Strings doc.<!-- PRIVATE:END --><!-- PUBLIC:START -->Awaiting content — the template is ready to receive named leadership bios whenever they're finalized.<!-- PUBLIC:END --> |
-
-**Legend:** 🟢 Built & in use · 🟡 Specified, not yet compiled into a file · 🔴 Not started
+| Compound                              | Notes                                                                                             |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **This Annexure (`.pptx`)**           | Use as a visual precedent for future `.pptx` deliverables.                                        |
+| **Email Signature**                   | See the specification below; refer to the Molecules manifest and IT/Workspace policy for implementation. |
+| **Case Study (`.docx` / web)**        | See the structure below; use a `.dotx` master or locked web template.                             |
+| **One-Pager (`.docx` / `.pdf`)**      | See the full structure below.                                                                    |
+| **Slide Deck (`.pptx`)**              | See the minimum structure below; use a dedicated `.potx` master.                                  |
+| **LinkedIn Post**                     | Text-only; governed by the template below and the Never List (Strings doc).                       |
+| **About / Leadership Page (`.html`)** | See the template below.                                                                           |
 
 ---
 
@@ -179,7 +177,7 @@ For each leader:
 [2–3 sentence bio — one specific credential or proof point, not a title list]
 ```
 
-**Why this template exists:** the current About page has no named leadership — this directly undercuts "Human-led" as a brand trait and removes another GEO-citable structure (named-person + credential is exactly what LLMs surface for "who runs Ariviti" style queries).
+**Content guidance:** name leaders and include relevant credentials to support the "Human-led" trait and provide a citable structure for "who runs Ariviti" queries.
 
 ---
 
